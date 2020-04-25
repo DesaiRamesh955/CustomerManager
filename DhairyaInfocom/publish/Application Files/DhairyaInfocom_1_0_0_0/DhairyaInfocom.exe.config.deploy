@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6"/>
+    </startup>
+  <connectionStrings>
+    
+    
+    <add name="dbcs" connectionString="user id=u723342765_fullformlearn;server=81.16.28.191;password=Dhairya@551992;database=u723342765_dhairya_custom" providerName="MySql.Data.MySqlClient"/>
+  </connectionStrings>
+</configuration>
